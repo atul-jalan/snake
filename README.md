@@ -18,4 +18,4 @@ Regardless, the genetic algorithm is the largest portion of the program, and was
 4. Uniform Crossover - The form of breeding that makes least sense in hindsight. Every other weight from two parents are bred into one child (think: the odd weights from one parent and the even ones from the other).
 
 # Other functionality
-Of course, users can also play the game!
+Of course, users can also play the game! A GUI is available, created with pygame. The GUI also gives options for visualizing performance of the feed-foward neural network and user-written algorithm.
