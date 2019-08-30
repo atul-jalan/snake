@@ -278,7 +278,7 @@ from keras.layers import Dense
 from keras.models import load_model
 from keras.utils import to_categorical
 
-NUM_CELLS = 100
+NUM_CELLS = 20
 
 loop = True
 while loop:
